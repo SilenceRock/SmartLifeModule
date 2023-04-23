@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ccdt.smartlife</groupId>
+  <artifactId>WearModule</artifactId>
+  <versioning>
+    <latest>1.0.0-master</latest>
+    <release>1.0.0-master</release>
+    <versions>
+      <version>1.0.0-master</version>
+    </versions>
+    <lastUpdated>20230423083053</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,153 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.ccdt.smartlife",
+    "module": "WearModule",
+    "version": "1.0.0-master",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "masterReleaseVariantMasterReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "WearModule-1.0.0-master.aar",
+          "url": "WearModule-1.0.0-master.aar",
+          "size": 1207163,
+          "sha512": "f11c397e3151064357e8514f4328feeffeba8b9e4cc29a8acff4dd091cfda1072450a4bd2879ef46cf56975361de23be16f79df417088322cf877572e0e08692",
+          "sha256": "418ae58a4c84799c7b06d20f63529e9cbba3f0c8fb6d41cde0ee944574a18521",
+          "sha1": "4008de982fcf82cde52ccb59df90957dc7006ab1",
+          "md5": "e391087bcc34142054adece81d65cb63"
+        }
+      ]
+    },
+    {
+      "name": "masterReleaseVariantMasterReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-android-extensions-runtime",
+          "version": {
+            "requires": "1.6.21"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "com.jaeger.statusbarutil",
+          "module": "library",
+          "version": {
+            "requires": "1.5.1"
+          }
+        },
+        {
+          "group": "com.github.CymChad",
+          "module": "BaseRecyclerViewAdapterHelper",
+          "version": {
+            "requires": "3.0.4"
+          }
+        },
+        {
+          "group": "com.github.mcxtzhang",
+          "module": "SwipeDelMenuLayout",
+          "version": {
+            "requires": "V1.3.0"
+          }
+        },
+        {
+          "group": "org.eclipse.paho",
+          "module": "org.eclipse.paho.client.mqttv3",
+          "version": {
+            "requires": "1.2.5"
+          }
+        },
+        {
+          "group": "org.eclipse.paho",
+          "module": "org.eclipse.paho.android.service",
+          "version": {
+            "requires": "1.1.1"
+          }
+        },
+        {
+          "group": "org.greenrobot",
+          "module": "eventbus",
+          "version": {
+            "requires": "3.3.1"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.9"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "WearModule-1.0.0-master.aar",
+          "url": "WearModule-1.0.0-master.aar",
+          "size": 1207163,
+          "sha512": "f11c397e3151064357e8514f4328feeffeba8b9e4cc29a8acff4dd091cfda1072450a4bd2879ef46cf56975361de23be16f79df417088322cf877572e0e08692",
+          "sha256": "418ae58a4c84799c7b06d20f63529e9cbba3f0c8fb6d41cde0ee944574a18521",
+          "sha1": "4008de982fcf82cde52ccb59df90957dc7006ab1",
+          "md5": "e391087bcc34142054adece81d65cb63"
+        }
+      ]
+    }
+  ]
+}
