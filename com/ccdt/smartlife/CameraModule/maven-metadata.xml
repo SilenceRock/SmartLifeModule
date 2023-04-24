@@ -3,11 +3,12 @@
   <groupId>com.ccdt.smartlife</groupId>
   <artifactId>CameraModule</artifactId>
   <versioning>
-    <latest>1.0.0-master</latest>
-    <release>1.0.0-master</release>
+    <latest>1.0.1-master</latest>
+    <release>1.0.1-master</release>
     <versions>
       <version>1.0.0-master</version>
+      <version>1.0.1-master</version>
     </versions>
-    <lastUpdated>20230424075242</lastUpdated>
+    <lastUpdated>20230424080210</lastUpdated>
   </versioning>
 </metadata>
