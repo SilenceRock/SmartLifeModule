@@ -35,11 +35,11 @@
         {
           "name": "CameraModule-1.0.0-master.aar",
           "url": "CameraModule-1.0.0-master.aar",
-          "size": 3020839,
-          "sha512": "c91512f06325eee238857a698bf90fde6674a43c3c56acd5f373ff5d7ab368e2c8cdf979b925e4d9718182fe712ad011e87776f9d054212b31e07aee24007338",
-          "sha256": "dc55322c3d51c05e033a88c35d365ffbfcb6edc0ff81ca0c21ba19cda0db7fac",
-          "sha1": "82edf46a51131b3eb05812412e79047573db99fb",
-          "md5": "23aaeb32fd5a94aa048e950b368f4510"
+          "size": 3021427,
+          "sha512": "05eacc9a3dff3d4effc369ece77399ed9afe319f47965bebff3f587218dbd84820c343f083daf58a641068d466a79eba61bfb2975b97376fcf18becd64a8afb0",
+          "sha256": "fdccde9145f799683f5c8df4a31104a9ee6748e6d49dae093d4d24d9006e1835",
+          "sha1": "44a3f618195e6c07730dbb4c8215dbfbc336d933",
+          "md5": "112aaa7217b80eebbd8a8b678791de23"
         }
       ]
     },
@@ -154,11 +154,11 @@
         {
           "name": "CameraModule-1.0.0-master.aar",
           "url": "CameraModule-1.0.0-master.aar",
-          "size": 3020839,
-          "sha512": "c91512f06325eee238857a698bf90fde6674a43c3c56acd5f373ff5d7ab368e2c8cdf979b925e4d9718182fe712ad011e87776f9d054212b31e07aee24007338",
-          "sha256": "dc55322c3d51c05e033a88c35d365ffbfcb6edc0ff81ca0c21ba19cda0db7fac",
-          "sha1": "82edf46a51131b3eb05812412e79047573db99fb",
-          "md5": "23aaeb32fd5a94aa048e950b368f4510"
+          "size": 3021427,
+          "sha512": "05eacc9a3dff3d4effc369ece77399ed9afe319f47965bebff3f587218dbd84820c343f083daf58a641068d466a79eba61bfb2975b97376fcf18becd64a8afb0",
+          "sha256": "fdccde9145f799683f5c8df4a31104a9ee6748e6d49dae093d4d24d9006e1835",
+          "sha1": "44a3f618195e6c07730dbb4c8215dbfbc336d933",
+          "md5": "112aaa7217b80eebbd8a8b678791de23"
         }
       ]
     }
