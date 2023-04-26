@@ -3,7 +3,7 @@
   "component": {
     "group": "com.ccdt.smartlife",
     "module": "CameraModule",
-    "version": "1.0.0-master",
+    "version": "1.0.0-gehua",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -33,8 +33,8 @@
       ],
       "files": [
         {
-          "name": "CameraModule-1.0.0-master.aar",
-          "url": "CameraModule-1.0.0-master.aar",
+          "name": "CameraModule-1.0.0-gehua.aar",
+          "url": "CameraModule-1.0.0-gehua.aar",
           "size": 3022321,
           "sha512": "7fa54bc32ce175869382fb566b114ddcbb60d7d9f190273eb3830ad2a2dd46305103cecbd535cf3b9579a1b27280c46a0d65185bc162453ff7a561ac60797fda",
           "sha256": "de60abf5b1e2e46df0ad7ff3b7ff4a05e370fdcf74e34ceb7db6e97a7d6e81e2",
@@ -152,8 +152,8 @@
       ],
       "files": [
         {
-          "name": "CameraModule-1.0.0-master.aar",
-          "url": "CameraModule-1.0.0-master.aar",
+          "name": "CameraModule-1.0.0-gehua.aar",
+          "url": "CameraModule-1.0.0-gehua.aar",
           "size": 3022321,
           "sha512": "7fa54bc32ce175869382fb566b114ddcbb60d7d9f190273eb3830ad2a2dd46305103cecbd535cf3b9579a1b27280c46a0d65185bc162453ff7a561ac60797fda",
           "sha256": "de60abf5b1e2e46df0ad7ff3b7ff4a05e370fdcf74e34ceb7db6e97a7d6e81e2",

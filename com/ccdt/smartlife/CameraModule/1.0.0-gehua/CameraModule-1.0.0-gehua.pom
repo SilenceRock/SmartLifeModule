@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ccdt.smartlife</groupId>
   <artifactId>CameraModule</artifactId>
-  <version>1.0.1-master</version>
+  <version>1.0.0-gehua</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>

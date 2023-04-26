@@ -2,8 +2,8 @@
   "formatVersion": "1.1",
   "component": {
     "group": "com.ccdt.smartlife",
-    "module": "CameraModule",
-    "version": "1.0.1-master",
+    "module": "WearModule",
+    "version": "1.0.0-gehua",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -33,13 +33,13 @@
       ],
       "files": [
         {
-          "name": "CameraModule-1.0.1-master.aar",
-          "url": "CameraModule-1.0.1-master.aar",
-          "size": 3021427,
-          "sha512": "05eacc9a3dff3d4effc369ece77399ed9afe319f47965bebff3f587218dbd84820c343f083daf58a641068d466a79eba61bfb2975b97376fcf18becd64a8afb0",
-          "sha256": "fdccde9145f799683f5c8df4a31104a9ee6748e6d49dae093d4d24d9006e1835",
-          "sha1": "44a3f618195e6c07730dbb4c8215dbfbc336d933",
-          "md5": "112aaa7217b80eebbd8a8b678791de23"
+          "name": "WearModule-1.0.0-gehua.aar",
+          "url": "WearModule-1.0.0-gehua.aar",
+          "size": 1207163,
+          "sha512": "f11c397e3151064357e8514f4328feeffeba8b9e4cc29a8acff4dd091cfda1072450a4bd2879ef46cf56975361de23be16f79df417088322cf877572e0e08692",
+          "sha256": "418ae58a4c84799c7b06d20f63529e9cbba3f0c8fb6d41cde0ee944574a18521",
+          "sha1": "4008de982fcf82cde52ccb59df90957dc7006ab1",
+          "md5": "e391087bcc34142054adece81d65cb63"
         }
       ]
     },
@@ -95,13 +95,6 @@
           }
         },
         {
-          "group": "com.github.smarxpan",
-          "module": "NotchScreenTool",
-          "version": {
-            "requires": "0.0.1"
-          }
-        },
-        {
           "group": "com.github.CymChad",
           "module": "BaseRecyclerViewAdapterHelper",
           "version": {
@@ -109,37 +102,31 @@
           }
         },
         {
-          "group": "com.scwang.smartrefresh",
-          "module": "SmartRefreshLayout",
+          "group": "com.github.mcxtzhang",
+          "module": "SwipeDelMenuLayout",
           "version": {
-            "requires": "1.1.2"
+            "requires": "V1.3.0"
           }
         },
         {
-          "group": "com.github.zcweng",
-          "module": "switch-button",
+          "group": "org.eclipse.paho",
+          "module": "org.eclipse.paho.client.mqttv3",
           "version": {
-            "requires": "0.0.3"
-          },
-          "excludes": [
-            {
-              "group": "*",
-              "module": "*"
-            }
-          ],
-          "thirdPartyCompatibility": {
-            "artifactSelector": {
-              "name": "switch-button",
-              "type": "aar",
-              "extension": "aar"
-            }
+            "requires": "1.2.5"
           }
         },
         {
-          "group": "com.contrarywind",
-          "module": "Android-PickerView",
+          "group": "org.eclipse.paho",
+          "module": "org.eclipse.paho.android.service",
           "version": {
-            "requires": "4.1.9"
+            "requires": "1.1.1"
+          }
+        },
+        {
+          "group": "org.greenrobot",
+          "module": "eventbus",
+          "version": {
+            "requires": "3.3.1"
           }
         },
         {
@@ -152,13 +139,13 @@
       ],
       "files": [
         {
-          "name": "CameraModule-1.0.1-master.aar",
-          "url": "CameraModule-1.0.1-master.aar",
-          "size": 3021427,
-          "sha512": "05eacc9a3dff3d4effc369ece77399ed9afe319f47965bebff3f587218dbd84820c343f083daf58a641068d466a79eba61bfb2975b97376fcf18becd64a8afb0",
-          "sha256": "fdccde9145f799683f5c8df4a31104a9ee6748e6d49dae093d4d24d9006e1835",
-          "sha1": "44a3f618195e6c07730dbb4c8215dbfbc336d933",
-          "md5": "112aaa7217b80eebbd8a8b678791de23"
+          "name": "WearModule-1.0.0-gehua.aar",
+          "url": "WearModule-1.0.0-gehua.aar",
+          "size": 1207163,
+          "sha512": "f11c397e3151064357e8514f4328feeffeba8b9e4cc29a8acff4dd091cfda1072450a4bd2879ef46cf56975361de23be16f79df417088322cf877572e0e08692",
+          "sha256": "418ae58a4c84799c7b06d20f63529e9cbba3f0c8fb6d41cde0ee944574a18521",
+          "sha1": "4008de982fcf82cde52ccb59df90957dc7006ab1",
+          "md5": "e391087bcc34142054adece81d65cb63"
         }
       ]
     }
