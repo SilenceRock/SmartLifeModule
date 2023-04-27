@@ -15,7 +15,7 @@
   },
   "variants": [
     {
-      "name": "masterReleaseVariantMasterReleaseApiPublication",
+      "name": "gehuaReleaseVariantGehuaReleaseApiPublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -35,16 +35,16 @@
         {
           "name": "CameraModule-1.0.0-gehua.aar",
           "url": "CameraModule-1.0.0-gehua.aar",
-          "size": 3022321,
-          "sha512": "7fa54bc32ce175869382fb566b114ddcbb60d7d9f190273eb3830ad2a2dd46305103cecbd535cf3b9579a1b27280c46a0d65185bc162453ff7a561ac60797fda",
-          "sha256": "de60abf5b1e2e46df0ad7ff3b7ff4a05e370fdcf74e34ceb7db6e97a7d6e81e2",
-          "sha1": "540e5c373034ac455474c391effcf08798670157",
-          "md5": "125c76940535ed4b53a3e5e4955212c0"
+          "size": 3002642,
+          "sha512": "bcb31ae1ef476ad43041ac45818d40b6f78ba92b85d311b7d1ea887ee8c9070d06073cde861fe8ea3f26d9fece70104c6a626077217d4f87ae5ef83e9a8339fa",
+          "sha256": "202822736498ea6c0a594a4ae21f0689ca3c1f4abcb33e748c4dca091a7d2bf4",
+          "sha1": "7017f8f80fa0ad953dbdee9558921464136426e2",
+          "md5": "6eb8a58b2a09384d4165a74458dab06c"
         }
       ]
     },
     {
-      "name": "masterReleaseVariantMasterReleaseRuntimePublication",
+      "name": "gehuaReleaseVariantGehuaReleaseRuntimePublication",
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
@@ -154,11 +154,11 @@
         {
           "name": "CameraModule-1.0.0-gehua.aar",
           "url": "CameraModule-1.0.0-gehua.aar",
-          "size": 3022321,
-          "sha512": "7fa54bc32ce175869382fb566b114ddcbb60d7d9f190273eb3830ad2a2dd46305103cecbd535cf3b9579a1b27280c46a0d65185bc162453ff7a561ac60797fda",
-          "sha256": "de60abf5b1e2e46df0ad7ff3b7ff4a05e370fdcf74e34ceb7db6e97a7d6e81e2",
-          "sha1": "540e5c373034ac455474c391effcf08798670157",
-          "md5": "125c76940535ed4b53a3e5e4955212c0"
+          "size": 3002642,
+          "sha512": "bcb31ae1ef476ad43041ac45818d40b6f78ba92b85d311b7d1ea887ee8c9070d06073cde861fe8ea3f26d9fece70104c6a626077217d4f87ae5ef83e9a8339fa",
+          "sha256": "202822736498ea6c0a594a4ae21f0689ca3c1f4abcb33e748c4dca091a7d2bf4",
+          "sha1": "7017f8f80fa0ad953dbdee9558921464136426e2",
+          "md5": "6eb8a58b2a09384d4165a74458dab06c"
         }
       ]
     }
