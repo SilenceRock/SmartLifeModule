@@ -35,11 +35,11 @@
         {
           "name": "CameraModule-1.0.0-gehua.aar",
           "url": "CameraModule-1.0.0-gehua.aar",
-          "size": 3002642,
-          "sha512": "bcb31ae1ef476ad43041ac45818d40b6f78ba92b85d311b7d1ea887ee8c9070d06073cde861fe8ea3f26d9fece70104c6a626077217d4f87ae5ef83e9a8339fa",
-          "sha256": "202822736498ea6c0a594a4ae21f0689ca3c1f4abcb33e748c4dca091a7d2bf4",
-          "sha1": "7017f8f80fa0ad953dbdee9558921464136426e2",
-          "md5": "6eb8a58b2a09384d4165a74458dab06c"
+          "size": 3003178,
+          "sha512": "38eb32c71ab941a63372e7c072dcba21273fb773ef1fd3086a8bfb47cd596dbc44b42d5ac0697e477a246a4e15f08dc4711c4a56b6dd4f64032d46d7fc20c042",
+          "sha256": "3ca643b3c48286c6f7b3d73a11e77172f0eb9687bb4d5330d6aa5b2f6ea842a1",
+          "sha1": "1a55836d8f3ee0d0cda7eea166a604f7fe7b9587",
+          "md5": "08feb59709d38fbf84b3f0fe34055a40"
         }
       ]
     },
@@ -154,11 +154,11 @@
         {
           "name": "CameraModule-1.0.0-gehua.aar",
           "url": "CameraModule-1.0.0-gehua.aar",
-          "size": 3002642,
-          "sha512": "bcb31ae1ef476ad43041ac45818d40b6f78ba92b85d311b7d1ea887ee8c9070d06073cde861fe8ea3f26d9fece70104c6a626077217d4f87ae5ef83e9a8339fa",
-          "sha256": "202822736498ea6c0a594a4ae21f0689ca3c1f4abcb33e748c4dca091a7d2bf4",
-          "sha1": "7017f8f80fa0ad953dbdee9558921464136426e2",
-          "md5": "6eb8a58b2a09384d4165a74458dab06c"
+          "size": 3003178,
+          "sha512": "38eb32c71ab941a63372e7c072dcba21273fb773ef1fd3086a8bfb47cd596dbc44b42d5ac0697e477a246a4e15f08dc4711c4a56b6dd4f64032d46d7fc20c042",
+          "sha256": "3ca643b3c48286c6f7b3d73a11e77172f0eb9687bb4d5330d6aa5b2f6ea842a1",
+          "sha1": "1a55836d8f3ee0d0cda7eea166a604f7fe7b9587",
+          "md5": "08feb59709d38fbf84b3f0fe34055a40"
         }
       ]
     }
