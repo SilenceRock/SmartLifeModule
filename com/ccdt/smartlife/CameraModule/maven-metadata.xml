@@ -3,12 +3,12 @@
   <groupId>com.ccdt.smartlife</groupId>
   <artifactId>CameraModule</artifactId>
   <versioning>
-    <latest>1.0.0-gehua</latest>
-    <release>1.0.0-gehua</release>
+    <latest>1.0.0-master</latest>
+    <release>1.0.0-master</release>
     <versions>
       <version>1.0.0-gehua</version>
       <version>1.0.0-master</version>
     </versions>
-    <lastUpdated>20230427072653</lastUpdated>
+    <lastUpdated>20230427075031</lastUpdated>
   </versioning>
 </metadata>
